@@ -1,0 +1,20 @@
+{
+    "isim": "Makritcan",
+    "bio": "java developer, reverser",
+    "arkaPlanResmi": "https://cdn.discordapp.com/attachments/1423764848109682790/1472007022667890720/49055a84f552e640eaadd42a74bcbfe2.jpg?ex=699100de&is=698faf5e&hm=5d9ff49b868bc8071f8d966b869b20e7c1dfd58eb8b7a15805788a3d7746594e&",
+    "profilResmi": "https://cdn.discordapp.com/attachments/1423764848109682790/1472007023192440936/837eab6f11433cf84b76fa8414ea069a.jpg?ex=699100de&is=698faf5e&hm=1926b65189d4da65e911c7c6248e6a9522bbeda52caa59d956cd2c1aafac21d2&",
+    "temaRengi": "#1e79f1",
+    "glowRengi": "rgba(0, 242, 234, 0.7)",
+    "muzik": {
+        "dosyaLinki": "https://cdn.discordapp.com/attachments/1423764848109682790/1472007259717374012/Aykut_Closer_-_Cash_Money_V2_q2wo-6X83i4.mp3?ex=69910117&is=698faf97&hm=779425dbf99df48b5890dea9524e183e6660b4668f867e2e9459165439048fcc&",
+        "sarkiAdi": "Cash Money V2",
+        "sanatci": "Aykut Closer",
+        "kapakResmi": "https://images-ext-1.discordapp.net/external/qG51VU9ordvj7uSK3yfw_D53wwYepadp_u6MQDhyTzE/%3Fsqp%3D-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBEgciguMA8%3D%26rs%3DAOn4CLAdLx2HtMuo8d1iHZg2jpRjootTFQ/https/i.ytimg.com/vi/q2wo-6X83i4/hq720.jpg?format=webp"
+    },
+    "sosyalMedya": [
+        { "ikon": "fa-brands fa-discord", "link": "https://discord.gg/1971xd", "renk": "#5865F2" },
+        { "ikon": "fa-brands fa-spotify", "link": "https://open.spotify.com/user/31mdq72sf45igijkwsfsnoqnrf3a?si=2c24f0abd5204dc4", "renk": "#1DB954" },
+        { "ikon": "fa-brands fa-instagram", "link": "#", "renk": "#E1306C" },
+        { "ikon": "fa-brands fa-github", "link": "https://github.com/makritcan", "renk": "#fff" }
+    ]
+}
