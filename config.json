@@ -1,0 +1,20 @@
+{
+    "isim": "Reeves",
+    "bio": "Random CheatGlobal member",
+    "arkaPlanResmi": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?q=80&w=2070&auto=format&fit=crop",
+    "profilResmi": "https://scontent.fist11-1.fna.fbcdn.net/v/t1.15752-9/623294466_1196184969373233_797233472974573981_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=6FwO_gaEcmIQ7kNvwH5syNc&_nc_oc=AdlNwBQoI1Ftzg8C1BEgRh7HvIjyF8J-fvWWmeBm6za7v16z2oNF-RAA_jqvkriMJ3Y&_nc_zt=23&_nc_ht=scontent.fist11-1.fna&oh=03_Q7cD4gF4rH37didUfImZtrGakRbKTvAqDBEzLv9i_rimfkCWSQ&oe=69B53D94",
+    "temaRengi": "#00f2ea",
+    "glowRengi": "rgba(0, 242, 234, 0.3)",
+    "muzik": {
+        "dosyaLinki": "https://cdn.discordapp.com/attachments/1471388549042671628/1471498708083544366/Elif_Dogan_Bir_Ruya_Gordum_Ask_Tesadufleri_Sever_2_Orijinal_Film_Muzikleri.mp3?ex=698f2777&is=698dd5f7&hm=6dbf1b3d1faab4d7ad836554561ff0915d9897fadabf10e423b17dbbba66b20c&",
+        "sarkiAdi": "Bir Rüya Gördüm",
+        "sanatci": "Elif Doğan",
+        "kapakResmi": "https://i.ytimg.com/vi/PHvKfw-o0Rk/maxresdefault.jpg"
+    },
+    "sosyalMedya": [
+        { "ikon": "fa-brands fa-discord", "link": "https://discord.gg/fondea", "renk": "#5865F2" },
+        { "ikon": "fa-brands fa-spotify", "link": "#", "renk": "#1DB954" },
+        { "ikon": "fa-brands fa-instagram", "link": "https://www.instagram.com/rh4nta/", "renk": "#E1306C" },
+        { "ikon": "fa-brands fa-github", "link": "https://github.com/RhantaDV", "renk": "#fff" }
+    ]
+}
