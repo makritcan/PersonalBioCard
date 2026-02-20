@@ -1,4 +1,5 @@
 # Bio Link Site - Kurulum Rehberi
+# Örnek: https://personal-bio-card.vercel.app/
 
 Bu proje, hosting üzerinde çalışacak şekilde tasarlanmıştır.
 
@@ -24,3 +25,4 @@ Hostinginize yüklemeniz gereken dosyalar şunlardır:
 ## ⚠️ Notlar
 - Bu sistem PHP destekleyen hostinglerde çalışır (GoDaddy, Hostinger, Cenuta vb.).
 - GitHub Pages veya Vercel gibi sadece statik HTML sunan yerlerde "Kaydet" butonu çalışmaz.
+
