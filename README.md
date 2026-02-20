@@ -1,28 +1,29 @@
-# Bio Link Site - Kurulum Rehberi
-# Örnek: https://personal-bio-card.vercel.app/
+# Bio Link Site - Installation Guide
+# Example: https://personal-bio-card.vercel.app/
 
-Bu proje, hosting üzerinde çalışacak şekilde tasarlanmıştır.
+This project is designed to run on a web hosting server.
 
-## 📂 Dosya Yapısı
-Hostinginize yüklemeniz gereken dosyalar şunlardır:
-1. `index.html` - Ana sayfa
-2. `admin.html` - Yönetim paneli (Şifre: mitamers2026makrit)
-3. `config.json` - Ayarlar dosyası
-4. `save.php` - Ayarları kaydetmek için gereken PHP dosyası
+## 📂 File Structure
+Upload the following files to your hosting account:
 
-## 🚀 Hosting Kurulumu
-1. Bir web hosting (cPanel, Plesk vb.) satın alın veya mevcut hostinginize girin.
-2. `public_html` veya sitenizin ana dizinine yukarıdaki 4 dosyayı yükleyin.
-3. **ÖNEMLİ:** `config.json` dosyasına **yazma izni (CHMOD 777 veya 755)** verin.
-   - cPanel'de Dosya Yöneticisi -> config.json -> Sağ Tık -> Permissions (İzinler) -> 777 yapın.
-   - Bu izin verilmezse Admin panelinden yaptığınız değişiklikler kaydedilmez!
+1. `index.html` - Main page  
+2. `admin.html` - Admin panel (Password: mitamers2026makrit)  
+3. `config.json` - Settings file  
+4. `save.php` - PHP file required to save settings  
 
-## 🔐 Admin Paneli
-- Siteniz yüklendikten sonra `siteadiniz.com/admin.html` adresine gidin.
-- Şifre: `mitamers2026makrit`
-- Buradan tüm ayarları (İsim, Müzik, Arka Plan vb.) değiştirebilirsiniz.
+## 🚀 Hosting Setup
+1. Purchase a web hosting service (cPanel, Plesk, etc.) or log in to your existing hosting account.
+2. Upload the 4 files listed above to the `public_html` folder or your website’s root directory.
+3. **IMPORTANT:** Grant write permission to the `config.json` file (**CHMOD 777 or 755**).
+   - In cPanel: File Manager → Right-click `config.json` → Permissions → Set to 777.
+   - If this permission is not granted, changes made in the Admin panel will not be saved!
 
-## ⚠️ Notlar
-- Bu sistem PHP destekleyen hostinglerde çalışır (GoDaddy, Hostinger, Cenuta vb.).
-- GitHub Pages veya Vercel gibi sadece statik HTML sunan yerlerde "Kaydet" butonu çalışmaz.
+## 🔐 Admin Panel
+- After uploading your site, go to:
+  `yourdomain.com/admin.html`
+- Password: `mitamers2026makrit`
+- From here, you can modify all settings (Name, Music, Background, etc.).
 
+## ⚠️ Notes
+- This system works only on hosting services that support PHP (GoDaddy, Hostinger, Cenuta, etc.).
+- On platforms that only support static HTML (such as GitHub Pages or Vercel), the "Save" button will not function.
